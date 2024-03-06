@@ -1,4 +1,6 @@
-closed_door
-opened_door
-bus
-number
+Small_porosity
+Large_porosity
+spatter
+inclusions
+undercut
+cracks
